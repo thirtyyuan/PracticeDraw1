@@ -26,8 +26,6 @@ class Practice9DrawPathView : View {
         paint.flags = Paint.ANTI_ALIAS_FLAG
         paint.style = Paint.Style.STROKE
         val path = Path();
-        val height = height
-        val width = width
         val centWidth = width / 2
         val centHeight = height / 2
 
